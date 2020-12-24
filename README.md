@@ -1,2 +1,2 @@
 # learning-python
-me learning this 'awesome' language
+me is learning this 'awesome' language
