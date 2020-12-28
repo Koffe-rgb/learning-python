@@ -1,7 +1,7 @@
 from functools import reduce
 
-pathr = 'c:\\Users\\Nickolay\\Desktop\learning-python\\p1\\week3\\3.4-3-input.txt'
-pathw = 'c:\\Users\\Nickolay\\Desktop\learning-python\\p1\\week3\\3.4-3-output.txt'
+pathr = 'c:\\Users\\Nickolay\\Desktop\\learning-python\\p1\\week3\\3.4-3-input.txt'
+pathw = 'c:\\Users\\Nickolay\\Desktop\\learning-python\\p1\\week3\\3.4-3-output.txt'
 
 avgs = [0, 0, 0]
 n = 0

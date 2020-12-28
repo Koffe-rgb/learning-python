@@ -1,4 +1,4 @@
-path = 'c:\\Users\\Nickolay\\Desktop\learning-python\\p1\\week3\\3.4-2-input.txt'
+path = 'c:\\Users\\Nickolay\\Desktop\\learning-python\\p1\\week3\\3.4-2-input.txt'
 d = {}
 
 with open(path, 'r') as fis:

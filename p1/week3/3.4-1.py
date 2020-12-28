@@ -1,5 +1,5 @@
 line = ''
-with open('c:\\Users\\Nickolay\\Desktop\learning-python\\p1\\week3\\3.4-1-input.txt', 'r') as fis:
+with open('c:\\Users\\Nickolay\\Desktop\\learning-python\\p1\\week3\\3.4-1-input.txt', 'r') as fis:
     line = fis.readline()
     line += ' '
 
@@ -14,6 +14,6 @@ for char in line:
     else:
         curDigit += char
 
-with open('c:\\Users\\Nickolay\\Desktop\learning-python\\p1\\week3\\3.4-1-output.txt', 'w') as fos:
+with open('c:\\Users\\Nickolay\\Desktop\\learning-python\\p1\\week3\\3.4-1-output.txt', 'w') as fos:
     fos.write(result)
     print(result)
